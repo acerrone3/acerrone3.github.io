@@ -6,4 +6,4 @@ This is a sister project of [GESTOFS](https://gm-ling.github.io/GESTOFS-develop/
 
 ### Interactive Map
 The interactive map below reflects only the output of the ML model.
-<iframe src="https://www.google.com/maps/d/embed?mid=1x20MmD8tngH3iC0dzQzyUGJKY5raH6Y&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1x20MmD8tngH3iC0dzQzyUGJKY5raH6Y&ehbc=2E312F" width="800" height="660"></iframe>
