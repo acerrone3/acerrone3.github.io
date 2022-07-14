@@ -15,5 +15,6 @@ Past forecasts are posted [here](https://github.com/acerrone3/acerrone3.github.i
 ```
 import pandas as pd
 
+# read file into a Pandas dataframe
 df = pd.read_pickle("filename.p")
 ```
