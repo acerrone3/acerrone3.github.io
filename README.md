@@ -24,7 +24,7 @@ df = pd.read_pickle("filename.p")
 ### Performance
 Updated July 14, 2022
 
-Here, the ADCIRC forecasts are compared to the ML forecasts.  Observational data will be integrated for performance assessment.
+Here, the ADCIRC forecasts are compared to the ML forecasts.  Comparisons are arranged in descending order based on each station's r-squared value.  Observational data has yet to be integrated for performance assessment.
 
 |  Station                                            |         R2 |       RMSD |   Max Discrepancy (m) |
 | :---------------------------------------------------|-----------:|-----------:|----------------------:|
