@@ -10,4 +10,10 @@ The interactive map below incorporates nowcasts from ADCIRC and forecasts from M
 <iframe src="https://www.google.com/maps/d/embed?mid=1LqhHHF30oVMNegtRUMX-gtatV9EmigM&ehbc=2E312F" width="1000" height="800"></iframe>
 
 ### Past Forecasts
-Past forecasts are posted [here](https://github.com/acerrone3/acerrone3.github.io/tree/main/Past%20Records).
+Past forecasts are posted [here](https://github.com/acerrone3/acerrone3.github.io/tree/main/Past%20Records).  Two file types are provided per forecast: comma separated value (csv) and Python-Pandas pickle (p).  To use the pickle file, simply invoke:
+
+```
+import pandas as pd
+
+df = pd.read_pickle("filename.p")
+```
