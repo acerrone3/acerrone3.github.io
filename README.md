@@ -10,4 +10,4 @@ The interactive map below incorporates nowcasts from ADCIRC and forecasts from M
 <iframe src="https://www.google.com/maps/d/embed?mid=1LqhHHF30oVMNegtRUMX-gtatV9EmigM&ehbc=2E312F" width="1000" height="800"></iframe>
 
 ### Past Forecasts
-Past forecasts are posted [here](https://drive.google.com/drive/folders/1677JIrz1w-IN_9MFfI8Sk6Daxv1012kB?usp=sharing).
+Past forecasts are posted [here](https://github.com/acerrone3/acerrone3.github.io/tree/main/Past%20Records).
