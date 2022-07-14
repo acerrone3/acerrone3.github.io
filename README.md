@@ -472,4 +472,4 @@ Here, the ADCIRC forecasts are compared to the ML forecasts.  Comparisons are ar
 |  UH826 SOUS00 GL341 Stockholm Sweden                | -0.0372145 | 0.0551371  |             0.14199   |
 
 ### Disclaimer
-DISCLAIMER: This model is under experimental development. The results should not be used for navigational purposes or emergency planning under any circumstances. Please do not duplicate and use the result figures from this website without permission.
+DISCLAIMER: This program is under experimental development. The results should not be used for navigational purposes or emergency planning under any circumstances. Please do not duplicate and use the result figures from this website without permission.
