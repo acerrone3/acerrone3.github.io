@@ -4,7 +4,7 @@ This is a sister project of [GESTOFS](https://gm-ling.github.io/GESTOFS-develop/
 ### Site URL
 [https://acerrone3.github.io/](https://acerrone3.github.io/)
 
-### Interactive Map
+### Latest Forecasts
 Updated July 14, 2022
 
 The interactive map below reflects the latest forecasts rendered both by ADCIRC and the ML model.  Note that the ML forecasts were generated with the same meteorological forcing as ADCIRC.  The ML model was trained on approximately 9 months of ADCIRC nowcasts spanning 2021 and 2022.  ADCIRC and the ML model have yet to be coupled.  As the program matures, ADCIRC and the ML model will be run together to render bounded forecasts.
