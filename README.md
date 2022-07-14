@@ -24,6 +24,8 @@ df = pd.read_pickle("filename.p")
 ### Performance
 Updated July 14, 2022
 
+Here, the ADCIRC forecasts are compared to the ML forecasts.  Observational data will be integrated for performance assessment.
+
 |  Station                                            |         R2 |       RMSD |   Max Discrepancy (m) |
 | :---------------------------------------------------|-----------:|-----------:|----------------------:|
 |  1019 Australia - Thevenard_AU                      |  0.751592  | 0.228144   |             0.584566  |
