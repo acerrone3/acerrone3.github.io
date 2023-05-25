@@ -1,4 +1,8 @@
-## GESTOFS-ML
+## G-STOFS for Tropical Cyclones
+NOAA runs the Global Surge and Tide Operational Forecast System (G-STOFS) four times per day.  At Notre Dame, the Computational Hydraulics Group (CHL) runs a shadow of G-STOFS once per day.  This shadow product has forthcoming features, and the public can easily access its forecasts [here](https://dylnwood.github.io/GESTOFS-develop/).  The CHL has been investigating ways to make G-STOFS more responsive to tropical cyclones.  In particular, we are focused on assimilating the skillful forecasts of the National Hurricane Center (NHC) and the Joint Typhoon Warning Center (JTWC) with dynamical forecast products like the Global Forecast System (GFS) which we use to force the underlying hydrodynamics driver in G-STOFS, ADCIRC.    
+
+
+
 This is a sister project of [GESTOFS](https://gm-ling.github.io/GESTOFS-develop/).  GESTOFS is an ADCIRC-based storm surge forecasting system for the whole globe.  GESTOFS-ML expands on this theme, but in addition to ADCIRC, it leverages a time-series forecasting ML model complete with meteorological forcing to enrich the prediction of surface water elevation.
 
 ### Site URL
