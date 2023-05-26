@@ -13,4 +13,4 @@ Under no circumstances should this website be used for tropical cyclone prepared
 [https://acerrone3.github.io/](https://acerrone3.github.io/)
 
 ### Advisories
-Access our GFS, NHC, and JTWC maximum winds from advisories [here](Historical_Data).
+Access our GFS, NHC, and JTWC maximum winds [here](Historical_Data).
